@@ -1,5 +1,2 @@
 #!/bin/bash
-cwd=$(pwd)
-
-# Print the absolute path
-echo "$cwd"
+echo "$(pwd)"
